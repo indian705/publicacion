@@ -1,0 +1,8 @@
+:root {
+    --colorbase:aqua;
+}
+
+.cambiar {
+    color:var(--colorbase);
+    transform: rotate(30deg);
+}
